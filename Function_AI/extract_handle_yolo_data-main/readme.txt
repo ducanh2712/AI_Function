@@ -1,0 +1,6 @@
+- extract_frames from filter_videos to filter_videos_frames
+- labeling filter_videos_frames
+- load_imgs_labels from filter_videos_frames to clean_data folder (images, labels)
+- check_clean_data
+- visualize_clean_data
+- data_split -> data (train, val)
